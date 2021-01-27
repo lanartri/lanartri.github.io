@@ -47,7 +47,7 @@ en baştaki örneği tekrarlayalım, "her kişi ya da firma, istediği isimle ve
 
 inanmayacaksınız ama, bunun aynısı hem sosyal medya hem de mesajlaşma uygulamaları için de geçerli. üstelik de oldukça fazla kişi tarafından kullanılıyorlar, mutlu mesut bir şekilde, kimsenin ağız kokusunu çekmek zorunda kalmadan, "yazdıklarını beğenmedim, siliyorum, yok yok dur hatta, sadece mesajı değil, seni de siliyorum," cümleleriyle muhatap olmadan...
 
-herhangi bir merkez tarafından yönetilmiyorlar. onlarca, yüzlerce servis eşit şartlarda, birbirleriyle istedikleri şekilde iletişim kurabiliyor. bilgileriniz, üçüncü, beşinci, yüzellinci kişilere satılmıyor. reklamlarla kavga halinde değilsiniz.[^5]
+herhangi bir merkez tarafından yönetilmiyorlar. onlarca, yüzlerce servis eşit şartlarda, birbirleriyle istedikleri şekilde iletişim kurabiliyor. bilgileriniz üçüncü, beşinci, yüzellinci kişilere satılmıyor. reklamlarla kavga halinde değilsiniz.[^5]
 
 *işi gücü bırakıp beğenmediği yazıları, mesajları sildirmekle, sahiplerini takip ve tehdit etmekle meşgul olan hükümetlerin muhatap olabileceği bir merkez yok.
 kapısından tekme tokat kovulduğu twitter'a pencereden, bacadan dönmeye çabalayan trump hallerine de düşülmüyor.
