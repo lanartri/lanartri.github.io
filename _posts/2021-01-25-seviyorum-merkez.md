@@ -80,7 +80,7 @@ buna en yoğun kullanılanlardan birisi olarak "mastodon" örnek gösterilebilir
 
 ya da "elimde bolca kedi köpek manzara yemek fotoğrafı var, size de göstereyim" diyorsanız, buyurun [pixelfed'e...](https://pixelfed.org/)
 
-ayrıca elimizde mesajlaşma uygulamaları için de [matrix protokolü](https://en.wikipedia.org/wiki/Matrix_(protocol)) var. [onlarca yazılımdan](https://matrix.org/docs/projects/try-matrix-now/) size uygun olanı kurup, ister yüz yüze ister gruplar halinde, yazılı, sesli, görüntülü iletişime başlayabilir ve irc, slack, skype vb. ya da yukarıda bahsettiğimiz sosyal ağlar gibi ortamlara tek bir programla derin dalışlar yapabilirsiniz.[^7]
+ayrıca elimizde mesajlaşma uygulamaları için de [matrix protokolü](https://en.wikipedia.org/wiki/Matrix_(protocol)) var. [onlarca yazılımdan](https://matrix.org/docs/projects/try-matrix-now/) size uygun olanı kurup, ister yüz yüze ister gruplar halinde, yazılı, sesli, görüntülü iletişime başlayabilir ve irc, slack, skype, discord vb. ya da yukarıda bahsettiğimiz sosyal ağlar gibi ortamlara tek bir programla derin dalışlar yapabilirsiniz.[^7]
 
 bu sistemlerde *gerçekten* karşılıklı ve güvenli "şifreleme" yapıldığını da biliyoruz artık, çünkü kapalı kapılar yok, merkez yok.
 
