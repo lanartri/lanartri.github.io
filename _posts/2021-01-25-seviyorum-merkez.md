@@ -57,7 +57,7 @@ ama sanırım, tekelleşme derdindeki şirketlerin hem "ücretsiz emekçi"si hem
 
 sorun eden varsa, kurcalayalım beraber...
 
-önce, "açık kaynak kod"dan başlayalım. kapalı kapılar arkasında neler döndüğünü, az da olsa anlayabilmemizi sağlıyor olsa da tek bir merkezden yönetilen uygulamalar için yeterli bir gönül rahatlığı sağlamıyor bu. sormamız gereken şöyle bir soru çıkıyor ortaya, "bu uygulamayı alıp kendim kurduğumda çalışmakta olan sistemin içine dahil olabiliyor muyum?"
+önce, "açık kaynak kod"dan başlayalım. kapalı kapılar arkasında neler döndüğünü az da olsa anlayabilmemizi sağlıyor olsa da tek bir merkezden yönetilen uygulamalar için yeterli bir gönül rahatlığı sağlamıyor bu. sormamız gereken şöyle bir soru çıkıyor ortaya, "bu uygulamayı alıp kendim kurduğumda çalışmakta olan sistemin içine dahil olabiliyor muyum?"
 
 açık kaynak kodlu signal için cevabımız "hayır"; whatsapp, telegram ve diğerleri için zaten ortalıkta kod da yok, kurup görebileceğim, nasıl çalıştığını anlayabileceğim bir sistem de.
 
