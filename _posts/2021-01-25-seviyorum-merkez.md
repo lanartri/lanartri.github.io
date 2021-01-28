@@ -94,9 +94,9 @@ bir de, "siz yoksunuz, henüz" :)[^8]
 <span style="color:#ffb84d">soundtrack:</span> [merkezde araç yok arkadaşlar, malt](https://open.spotify.com/track/7oUVXivKdN3NR87R9IM8w9?si=W4mMXZq-QIidpRrZ6hIHPQ)
 
 ---
-[^1]: "öngörü"den uydurulmuştur, anlaşılır olduğu düşünülmektedir.
-[^2]: yerli uygulamalara destek verelimcileri /dev/null'a kopyalamaktan yana olduğum için o konuya girmeyeyim hiç.
-[^3]: bkz. ["man in the middle"](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+[^1]: "öngörü"den uydurulmuştur, anlaşılır olduğu düşünülmektedir
+[^2]: yerli uygulamalara destek verelimcileri /dev/null'a kopyalamaktan yana olduğum için o konuya girmeyeyim hiç
+[^3]: ["man in the middle"](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
 [^4]: konunun klişesi, "bir ürün ücretsizse, ürün sizsiniz"
 [^5]: bunlar kötü niyetli servis yöneticileri tarafından yapılıyorsa bile, istediğiniz an güvendiğiniz bir başkasına geçebilir ya da paranoya seviyeniz had safhadaysa, kendiniz kurup yönetebilirsiniz.
 [^6]: "big" ya da "little", hepsi "brother" sonuçta
