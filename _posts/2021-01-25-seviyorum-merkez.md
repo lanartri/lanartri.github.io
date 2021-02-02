@@ -12,7 +12,7 @@ diyelim ki epostalarımız sadece bu hizmeti aldığımız servis sağlayıcı s
 > gmail hesabı kullanıyorsak, sadece gmail kullanan kişilere eposta gönderebiliriz ya da sadece onlardan alabiliriz.
 
 bir geçgörüde[^1] bulunacak olursam, epostalar icat edildiğinde google gibi şirketler var olsaydı muhtemelen bu örnek yaşanıyor ve gayet normal karşılanıyor olacaktı.
-böyle bir durumda her istediğimiz kişiye rahatlıkla eposta gönderemeyeceğimiz için zamanla en çok tercih edileni kullanmaya başlayacaktık ve bu da o servis sağlayıcısının hızla büyümesine ve bir süre sonra da tekelleşmesine ya da o yönde hayaller kurmasına sebep olacaktı.
+böyle bir durumda her istediğimiz kişiye rahatlıkla eposta gönderemeyeceğimiz için zamanla en çok tercih edileni kullanmaya başlayacaktık ve bu da o servis sağlayıcısının hızla büyümesine ve bir süre sonra da tekelleşmesine, her şeyi kontrol etmeye başlamasına ya da o yönde hayaller kurmasına sebep olacaktı.
 
 *neyse ki* o dönemi kaçırdılar ve şu an rahat rahat istediğimiz kişilere, istediğimiz şekilde ve yerden eposta gönderebiliyor ve onlardan da alabiliyoruz ama *ne yazık ki* sosyal medya ve mesajlaşma uygulamalarını yakalayabildiler, artık onlar nasıl isterse, neyi uygun görürse öyle yapıyoruz.
 
