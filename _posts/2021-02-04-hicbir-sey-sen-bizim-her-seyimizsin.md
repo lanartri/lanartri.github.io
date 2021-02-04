@@ -10,7 +10,7 @@ gerçekten mi soruyor mesela şöyle bir soruyu, emin olamıyorum,
 
 > "kaç kişi kaldık game of thrones izlemeyen?"
 
-emin olamıyorum, çünkü bir şeyi _**yapmıyor olmakla**_ kendisini göstermeye, başkalarından ayrılmaya çalışıyor. olur da herkes topluca cevap verir ve "biz, hepimiz" diyecek olursa, durum vahim.
+emin olamıyorum, çünkü böyle ya da buna benzer bir şeyi _**yapmıyor olmakla**_ kendisini göstermeye, başkalarından ayrılmaya çalışıyor. olur da herkes topluca cevap verir ve "biz, hepimiz" diyecek olursa, durum vahim.
 
 buradaki yapmıyor olmakla övünülen şey başkalarının yapmaktan keyif aldığı, bir şekilde ortaya koyduğu, üzerine konuştuğu herhangi bir eylem. yoksa mesela "kimseye yalakalık yapmıyorum, zarar vermiyorum, hak hukuk çiğnemiyorum," gibi şeyler değil.
 
