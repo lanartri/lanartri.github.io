@@ -26,7 +26,7 @@ aslında sanırım konunun ne olduğu bile fark etmiyor, oraya buraya hırlayıp
 
 "hiç, ama diğerlerinin ortaya koyduklarından uzak durdum, yetmez mi?"
 
-hadi sana yetsin, ama git şurdaki çöpün yanında tek ayak üstüne bekle, bak hem başkaları yapmıyor onu, farklı olursun işte biraz...
+hadi sana yetsin, ama git şurdaki çöpün yanında tek ayak üstünde bekle, bak hem başkaları yapmıyor onu, farklı olursun işte biraz...
 
 ---
 <span style="color:#ffb84d">soundtrack:</span> [iz bırakanlar unutulmaz, vega](https://open.spotify.com/track/2D0sYzNUqUtw7aCWiDABU8?si=gCEvn_fURDeat8cGHdXfVQ)
