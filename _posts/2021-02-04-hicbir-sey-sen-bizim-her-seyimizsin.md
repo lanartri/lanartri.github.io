@@ -18,7 +18,7 @@ buradaki yapmıyor olmakla övünülen şey başkalarının yapmaktan keyif ald�
 
 bir de **"biz eskiden eskiden..."**ciler var, "şunu da ne çok severdim, artık herkesin dilinde, elinde, ben uzak duruyorum artık."
 
-bir şeyleri sevme, ilgilenme kriterin başkaları olmuş ve üstelik başkalarını referans gösterip küçümseyerek kendini ortaya koyabiliyorsan, aferin sana.
+bir şeyleri sevme, ilgilenme kriterin başkaları olmuş ve üstelik kendini sadece başkalarını referans gösterip küçümseyerek ortaya koyabiliyorsan, aferin sana.
 
 aslında sanırım konunun ne olduğu bile fark etmiyor, oraya buraya hırlayıp durmak için havadan sudan bahaneler gibi hepsi, "ben de varım, duyun beni," ağlaşmaları...
 
