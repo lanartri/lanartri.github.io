@@ -24,7 +24,7 @@ aslında sanırım konunun ne olduğu bile fark etmiyor, oraya buraya hırlayıp
 
 "ne koydun ortaya?"
 
-"hiç, ama diğerlerinin ortaya koyduklarından uzak durdum, onlar bir şey yaptıkça, söyledikçe, ben de laf edip durdum, yetmez mi?"
+"hiç, ama diğerlerinin ortaya koyduklarından uzak durdum, onlar bir şey yaptıkça, söyledikçe, ben de bol bol laf ettim, yetmez mi?"
 
 hadi sana yetsin, ama git şurdaki çöpün yanında tek ayak üstünde bekle, bak hem başkaları yapmıyor onu, farklı olursun işte biraz...
 
