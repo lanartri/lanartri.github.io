@@ -43,7 +43,7 @@ ama, en önemlisi, ve hiç bahsedilmeyeni, ve niye hiç bahsedilmediğinin (tara
 
 o zaman bütün dünya fedex olsun, mu?
 
-en baştaki örneği tekrarlayalım, "her kişi ya da firma, istediği isimle ve istediği özelliklere sahip eposta servisini isterse kendisi kurup yönetebilir, üşenirse de bu hizmeti sağlayan yerlerden ücretli ya da ücretsiz alabilir ve posta kutularını kedilerle renklendirmeye başlayabilir."
+en baştaki örneği tekrarlayalım, "her kişi ya da firma, istediği isimle ve istediği özelliklere sahip eposta servisini isterse kendisi kurup yönetebilir, üşenirse de bu hizmeti sağlayan yerlerden ücretli ya da ücretsiz olarak alabilir ve posta kutularını kedilerle renklendirmeye başlayabilir."
 
 inanmayacaksınız ama, bunun aynısı hem sosyal medya hem de mesajlaşma uygulamaları için de geçerli. üstelik de oldukça fazla kişi tarafından kullanılıyorlar, mutlu mesut bir şekilde, kimsenin ağız kokusunu çekmek zorunda kalmadan, "yazdıklarını beğenmedim, siliyorum, yok yok dur hatta, sadece mesajı değil, seni de siliyorum," cümleleriyle muhatap olmadan...
 
