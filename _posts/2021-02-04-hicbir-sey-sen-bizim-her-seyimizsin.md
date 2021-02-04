@@ -14,7 +14,7 @@ emin olamıyorum, çünkü böyle ya da buna benzer bir şeyi _**yapmıyor olmak
 
 buradaki yapmıyor olmakla övünülen şey başkalarının yapmaktan keyif aldığı, bir şekilde ortaya koyduğu, üzerine konuştuğu herhangi bir eylem. yoksa mesela "kimseye yalakalık yapmıyorum, zarar vermiyorum, hak hukuk çiğnemiyorum," gibi şeyler değil.
 
-çayı şekersiz içiyor, televizyon izlemiyor, kahveye süt bile katmıyor olmanın nesiyle övünülebiliyor? üstelik, tam tersini yapanlar da küçümseniyor, onlar adına üzülünüyor.
+çayı şekersiz içiyor, televizyon izlemiyor, kahveye süt bile katmıyor olmanın nesiyle övünülebiliyor? üstelik, kendi yaptığının tam tersini yapanlar da küçümseniyor, onlar adına üzülünüyor.
 
 bir de **"biz eskiden eskiden..."**ciler var, "şunu da ne çok severdim, artık herkesin dilinde, elinde, ben uzak duruyorum artık."
 
