@@ -1,3 +1,7 @@
+---
+layout: page
+title: Info
+---
 [github](https://github.com/lanartri/lanartri.github.io) destekli, [jeykll](https://jekyllrb.com/) tabanlı, [hacker-blog](https://github.com/tocttou/hacker-blog) temalı, tamamen kişisel bir blog sitesi işte...
 
 <span style="color:#ffb84d">iletişelim:</span>
