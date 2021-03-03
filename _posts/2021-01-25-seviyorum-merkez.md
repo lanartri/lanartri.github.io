@@ -63,7 +63,7 @@ açık kaynak kodlu signal için cevabımız "hayır"; whatsapp, telegram ve di�
 
 yani signal bize gösterdiği kodları mı kullanıyor gerçekten, ya da evet o kodları kullanıyor belki ama bize göstermedikleri kısımlar da var mı, *bilemeyiz*.
 
-kendi signal sunucumu kurup signal'in kendi servisini kullanan bütün kullanıcılarla da mesajlaşmaya başlayabildiğim gün şüphelerim giderilir ama bu olmayacak. birbirleriyle iletişim kurmak isteyen herkes onların sunucusunu kullanmak zorunda, seçim hakkımız yok.
+kendi signal sunucumu kurup signal'in kendi servisini kullanan bütün kullanıcılarla da mesajlaşmaya başlayabildiğim gün şüphelerim giderilir ama bu olmayacak. dünyayla iletişim kurmak isteyen herkes onların sunucusunu kullanmak zorunda, seçim hakkımız yok.
 bu yapının bize tek bir faydası olabilir, "birkaç eş dost toplanıp kendi sunucumuzu kurup, kendi aramızda, kendi başımıza, signal'leşebiliriz. inzivaya çekilmek isteyen gruplar için ideal."
 
 "şifreleme" konusunda da aynı şüpheler geçerli oluyor bu durumda.
@@ -74,13 +74,13 @@ ve aynı şekilde, bütün kullanıcı verileri tek merkezde toplandığı için
 
 "sosyal ağ", "blog", "mikroblog", "wiki", "dosya paylaşımı", "video/fotoğraf/resim paylaşımı" platformlarının birleştiği [fediverse](https://en.wikipedia.org/wiki/Fediverse) yapılar var.
 pek çoğu, tamamen farklı bir protokole sahip olsa bile, birbiriyle iletişim halinde. örneğin, tek bir mikroblog hesabınızla başkalarının video paylaşımlarını da aynı hesabınız altından takip edebilirsiniz.
-istediğiniz zaman, kendi sunucunuzu kurup bütün bu sistemin içine katılabilir, kendi sunucunuzun ne şekilde işleyeceğine, hangi kuralları olacağına, kimleri kabul edip etmeyeceğinize karar verebilir, isterseniz de hiçbir kural tanımadan, isteyen herkes elini kolunu sallayarak gelip takılabilir, diyebilirsiniz, size kalmış.
+istediğiniz zaman, kendi sunucunuzu kurup bütün bu sistemin içine katılabilir, kendi sunucunuzun ne şekilde işleyeceğine, hangi kuralları olacağına, kimleri kabul edip etmeyeceğinize karar verebilir, isterseniz de hiçbir kural koymadan, isteyen herkes elini kolunu sallayarak gelip takılabilir, diyebilirsiniz, size kalmış.
 
-buna en yoğun kullanılanlardan birisi olarak "mastodon" örnek gösterilebilir. [şu adresten](https://joinmastodon.org/communities), size uygun istediğiniz bir tanesini seçmeniz ya da [şu adresteki](https://docs.joinmastodon.org/user/run-your-own/) talimatları takip ederek kendiniz kurmanız mümkün. merak etmeyin, hangisini seçerseniz seçin, diğerlerinden uzak kalmıyorsunuz, ama twitter'daysanız, sadece onunla sınırlısınız, o da bir tercih elbette. :)
+buna en yoğun kullanılanlardan birisi olarak "mastodon" örnek gösterilebilir. [şu adresten](https://joinmastodon.org/communities), size uygun istediğiniz bir tanesini seçmeniz ya da [şu adresteki](https://docs.joinmastodon.org/user/run-your-own/) talimatları takip ederek kendiniz kurmanız mümkün. merak etmeyin, hangisini seçerseniz seçin, diğerlerinden uzak kalmıyorsunuz, ama twitter'daysanız, sadece onunla sınırlısınız, o da bir tercih elbette.
 
 ya da "elimde bolca kedi köpek manzara yemek fotoğrafı var, size de göstereyim" diyorsanız, buyurun [pixelfed'e...](https://pixelfed.org/)
 
-ayrıca elimizde mesajlaşma uygulamaları için de [matrix protokolü](https://en.wikipedia.org/wiki/Matrix_(protocol)) var. [onlarca yazılımdan](https://matrix.org/docs/projects/try-matrix-now/) size uygun olanı kurup, ister yüz yüze ister gruplar halinde, yazılı, sesli, görüntülü iletişime başlayabilir ve irc, slack, skype, discord vb. ya da yukarıda bahsettiğimiz sosyal ağlar gibi ortamlara tek bir programla derin dalışlar yapabilirsiniz.[^7]
+ayrıca elimizde mesajlaşma uygulamaları için de [matrix protokolü](https://en.wikipedia.org/wiki/Matrix_(protocol)) var. [onlarca yazılımdan](https://matrix.org/docs/projects/try-matrix-now/) size uygun olanı kurup, ister teke tek ister gruplar halinde, yazılı, sesli, görüntülü iletişime başlayabilir ve irc, slack, skype, discord vb. ya da yukarıda bahsettiğimiz sosyal ağlar gibi ortamlara tek bir programla derin dalışlar yapabilirsiniz.[^7]
 
 bu sistemlerde *gerçekten* karşılıklı ve güvenli "şifreleme" yapıldığını da biliyoruz artık, çünkü kapalı kapılar yok, merkez yok.
 
