@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "saçmalama alanı buralarıe"
+title:  "saçmalama alanı buraları"
 date:   2015-12-04 00:00:40 +0000
 published: true
 categories: gündem
