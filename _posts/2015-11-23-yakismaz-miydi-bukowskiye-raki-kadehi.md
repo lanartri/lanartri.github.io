@@ -18,6 +18,6 @@ _("ölüler böyle sever")_
 alın artık üstüne, gömmüş işte her birimizi, ayyaşlığına mı verelim anlamazdan gelmek için?
 
 > bu anlamda iyi geliyor bana jack. çok fazla entelektüel gördüm son zamanlarda. her ağızlarını açtıklarında mutlaka elmaslar saçan değerli entelektüellerden çok sıkıldım. beynime bir soluk hava çekebilmek için savaşmaktan bıktım. yıllarca insanlardan kaçmamın nedeni bu, ve onlarla görüşmeye başladığımdan beri inime dönme zamanının geldiğini hissediyorum. zihinden başka şeyler de var hayatta: böcekler ve palmiye ağaçları ve biberlikler, ve bir biberliğim olacak inimde, gülün siz.
-_(pis moruğun notları)_
+_("pis moruğun notları")_
 
 hadi o zaman, bir kez daha, her zamanki gibi, “şerefe”nin ardına saklanalım!
