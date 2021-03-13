@@ -4,7 +4,7 @@ title: Info
 ---
 [github](https://github.com/lanartri/lanartri.github.io) destekli, [jeykll](https://jekyllrb.com/) tabanlı, [hacker-blog](https://github.com/tocttou/hacker-blog) temalı, tamamen kişisel bir blog sitesi işte...
 
-> internet üzerinde kaptığım bu kişisel blog köşesi sözlerin henüz toparlanmamış, süzgeçlenmemiş, makyajlanmamış “çıplak halleri”ni içermektedir; sığlık, derinlik ayarları yapılmamıştır.
+> internet üzerinde kaptığım bu blog köşesi sözlerin henüz toparlanmamış, süzgeçlenmemiş, makyajlanmamış “çıplak halleri”ni içermektedir; sığlık, derinlik ayarları yapılmamıştır.
 
 <span style="color:#ffb84d">iletişelim:</span>
 
