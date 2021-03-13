@@ -3,7 +3,7 @@ layout: post
 title:  "seviyorum merkez"
 date:   2021-01-25 12:54:40 +0000
 published: true
-categories: dapp
+categories: [dapp, gündem]
 ---
 
 diyelim ki epostalarımız sadece bu hizmeti aldığımız servis sağlayıcı sınırları içerisinde kalsaydı, nasıl olurdu dersiniz?

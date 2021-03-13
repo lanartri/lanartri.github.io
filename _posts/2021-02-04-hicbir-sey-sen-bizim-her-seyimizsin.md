@@ -3,7 +3,7 @@ layout: post
 title:  "hiçbir şey sen bizim her şeyimizsin"
 date:   2021-02-04 09:47:00 +0000
 published: true
-categories: gundem
+categories: gündem
 ---
 
 gerçekten mi soruyor mesela şöyle bir soruyu, emin olamıyorum,

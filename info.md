@@ -12,4 +12,4 @@ title: Info
 
 levent@anartri.net
 
-[arşiv](/archive)
+[kategoriler](/kategori) / [arşiv](/arsiv)
