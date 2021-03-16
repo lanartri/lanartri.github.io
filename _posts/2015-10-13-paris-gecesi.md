@@ -6,7 +6,8 @@ published: true
 categories: gezi
 ---
 
-can sıkıcı ve saçma schengen kuralları yolumu viyana öncesi paris'e düşürdü, bol zamanım olsaydı şikayetim olmazdı ya, tek gece de fena değildi işte, elde bavul, sırtta fotoğraf makineli, dizüstülü çanta, ilk ve son durak gecenin bir vakti "latin quarter", notre dame'nin az berisindeki birkaç cadde üstü bar ziyareti, susmak bilmeyen sarhoş ve de otçul abi, caz bar, seine kıyılarında gezinti, viyana uçağı saatine doğru, sabahın köründe yani, hava alanına dönüş... (bir ara bir yerlerde uyudum da sanırım, emin değilim)
+can sıkıcı ve saçma schengen kuralları yolumu viyana öncesi paris'e düşürdü, bol zamanım olsaydı şikayetim olmazdı ya, tek gece de fena değildi işte, elde bavul, sırtta fotoğraf makineli, dizüstülü çanta, ilk ve son durak gecenin bir vakti "latin quarter", notre dame'nin az berisindeki birkaç cadde üstü bar ziyareti, susmak bilmeyen sarhoş ve de otçul abi, caz bar, seine kıyılarında gezinti, viyana uçağı saatine doğru, sabahın köründe yani, hava alanına dönüş...  
+(bir ara bir yerlerde uyudum da sanırım, emin değilim)
 
 _(çantalarla gezerken fotoğraf makinesini çıkarmaya üşendim, caz bardakiler hariç diğerleri cep telefonuyla çekildiler ne yazık ki)_
 
