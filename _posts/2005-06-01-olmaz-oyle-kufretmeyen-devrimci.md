@@ -17,5 +17,5 @@ _imam ahaliye dönüyor:_
 _"bizim önderimiz artık ahmet. tamam mı? lamı cimi yok, baştan belliydi bu. o temiz ve saf, o bizim tanrı ile aramızdaki tek bağ, onun devrimden başka inandığı ve hatırladığı hiçbir şey yok. ama bizim ahmet'i hazırlamamız lazım. ona sertlik, gözüpeklik kazandırmamız lazım. karar verecek ve kararını derhal uygulayacak. herkes ona itaat edecek. ben de ahmet'e ilk katkımı küfür meselesinde yapacağım. olmaz öyle küfretmeyen devrimci. her şey iyi güzel, ama bu işin tutsaklığı, hapisliği, işkencesi var. adamların karşısında, rica ederim, çok faşistsiniz mi diyecek? ağzına geleni söyleyecek, küfredecek, ifrit edecek herifleri. bizim küfretmeyen önderimiz olur mu lan? dilerseniz, bize en yakışan küfür mahiyetinde, orospu çocuğundan başlayalım..."_  
 _çakılıyor dalga._
 
-**tol, murat uyurkulak*  *
+**tol, murat uyurkulak**  
 **bölüm 5, köpekler...**
