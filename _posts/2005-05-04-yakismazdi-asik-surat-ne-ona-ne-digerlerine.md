@@ -24,7 +24,7 @@ ta ki kızların da erkekler gibi yurda son giriş saatinin aynı olmasını sa�
 öğrenciydik. cep harçlığımıza göz dikilmişti. kampüste, şehirden uzak olmamızı fırsat bilen kantinlerdi bu seferki hedefimiz.
 ne yapabilirdik? çok şey...  
 fiyatlar normal seviyeye indirilene dek, kantinlere adım atmayacaktık.  
-o, ve birkaç arkadaşla beraber her sabah kampüsün dışındaki yola çıkıp dışarıdan alıp gelmeye başladık bütün öğrencilere yetebilecek miktarda yiyecek ve içecekleri.  
+o ve birkaç arkadaşla beraber her sabah kampüsün dışındaki yola çıkıp dışarıdan alıp gelmeye başladık bütün öğrencilere yetebilecek miktarda yiyecek ve içecekleri.  
 10 gün sürdü bu da. 10 gün boyunca, 15 bin kişilik kampüste, tek bir çay bile satın almamıştı hiçbir öğrenci kantinlerden.  
 ve yine sevindik, yine kazandık.
 
@@ -40,7 +40,7 @@ yüksekti öğrencilerden istenen harçlar. şikayetçiydiler eğitimin paralı 
 ("iradenin ve hayal gücünün kaynaştığı bir eylemdi")
 
 sonrası malum, terörist damgası, mahkemeler, hapis cezaları, ...  
-içimi en çok acıtan sahnelerden biriydi, elim kolum bağlı, televizyondan izlemek zorunda kaldığım, ama hala güler yüzünü kaybetmemişti mahkemede bile.
+içimi en çok acıtan sahnelerden biriydi, elim kolum bağlı, televizyondan izlemek zorunda kaldığım; ama o hala güler yüzünü kaybetmemişti mahkemede bile.
 
 sonrası memleket halleri...  
 haber alamaz olduk ne gazeteden, ne televizyondan. terörist öğrencilerdi ne de olsa, hak ettiklerini bulmuşlardı, gerisinden kime ne.
@@ -49,6 +49,6 @@ can dündar'dan öğrendim sonrasını, kurtulduğunda kendisine desteğinden do
 
 bu pazar, 1 mayıs günü, tandoğan meydanında rastladım. sevindim. çok sevindim. "atlattım hepsini" diyebiliyordu. okula geri dönebilmiş ve bitirebilmişti. hayatını yoluna sokmuştu yine...
 
-ve en güzel yanıydı, güler yüzünü hala kaybetmemiş olması.
+ve en güzel yanıydı, hala gülümsüyor olması.
 
 bilincini yitirmiş bir halkın gözünde uğradığı haksızlığa karşı durmanın, başkalarıyla paylaşmanın, beraberce güzel yaşamak isteğinin hiçbir önemi yok galiba, gazete ve televizyon bahsetmiyor bu kısımlarından.
