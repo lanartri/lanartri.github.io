@@ -2,7 +2,7 @@
 layout: post
 title:  "yakışmazdı asık surat, ne o'na ne diğerlerine"
 date:   2005-05-04 03:05:00 +0000
-published: true
+published: false
 categories: gündem
 ---
 
