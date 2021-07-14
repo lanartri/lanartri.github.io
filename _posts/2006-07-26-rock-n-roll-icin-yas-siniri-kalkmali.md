@@ -3,7 +3,7 @@ layout: post
 title:  "rock'n'roll için yaş sınırı kalkmalı"
 date:   2006-07-26 08:21:00 +0000
 published: true
-categories: gündem
+categories: konser
 ---
 
 senfonik orkestralar eşliğinde ian anderson'un ruhu ve melodileri dolanırken bu aralar ortalıkta, yine seneler öncesine yolculuk yaptık.
