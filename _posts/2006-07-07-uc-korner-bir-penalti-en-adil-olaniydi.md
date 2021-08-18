@@ -2,7 +2,7 @@
 layout: post
 title:  "üç korner bir penaltı, en adil olanıydı..."
 date:   2006-07-07 11:48:00 +0000
-published: true
+published: false
 categories: gündem
 ---
 
