@@ -2,7 +2,7 @@
 layout: post
 title:  "rock'n'roll için yaş sınırı kalkmalı"
 date:   2006-07-26 08:21:00 +0000
-published: true
+published: false
 categories: konser
 ---
 
