@@ -2,7 +2,7 @@
 layout: post
 title:  "bak bir varmış bir yokmuş"
 date:   2005-03-29 01:15:00 +0000
-published: true
+published: false
 categories: gündem
 ---
 
