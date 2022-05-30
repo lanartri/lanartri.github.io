@@ -48,9 +48,15 @@ sonra devasa büyüklüklere ulaşmış sosyal medya platformlarına kendimiz te
 
 hiç de "dur yahu, sanane bunlardan?" diyenimiz çıkmadı.
 
-anonimlikle korkaklığı kıyaslayıp meydan okuyanlar da tuz biber ekti, "karşımda gerçek kimliğinle konuşacak cesaretin yok mu lan?"
+üzerine bir de "buyur burdan yak" halinde, anonimlikle korkaklığı kıyaslayıp meydan okuyanlar da tuz biber ekti, "karşımda gerçek kimliğinle konuşacak cesaretin yok mu lan?"
 
 çıkışa da gelelim mi?
+
+durum böyle olunca, "sokakta, evde, çalışırken, yatarken, zıplarken, her şeyini görmek, bilmek istiyorum artık," denilmesinde olağan dışı bir durum yok.
+
+bir sonraki aşaması da geldiğimiz nokta oldu işte. "konuşmanı kısıtlayalı çok oldu, ama yine de hala inat edip konuşacaksan, yiyorsa anonim kalmayı dene, katlarım cezanı üçe beşe..."
+
+pek ünlü asabi abi ne sevinmiştir :)
 
 
 
