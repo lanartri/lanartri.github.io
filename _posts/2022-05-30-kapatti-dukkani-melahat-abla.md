@@ -33,7 +33,10 @@ categories: gündem
 > 
 > \- olur olur, ama bak hele, benim oğlan söyledi yine, telefonları da almayın yanınıza gelirken e mi, ordan da duyuyorlar, diyor.
 
-...
+fıkradaki gibi, [ermeni'yi dövdürtmeyecektik.](https://www.youtube.com/watch?v=RrSkv6y_A8E)
+
+iş işten çoktan geçti mi, bilemiyorum.
+
 
 
 ---
