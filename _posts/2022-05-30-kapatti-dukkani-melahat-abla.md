@@ -25,7 +25,7 @@ categories: gündem
 > 
 > \- doğru diyorsun abla, daha çıkmadı ama çıkacak öyle bir yasa, ama bizi niye ilgilendirsin ki?
 > 
-> \- olur mu evladım, bu vasap neyin dedikleri sosyal medya değil mi, ordan yasaklamışlar işte yazmayı. geçen anlattıydım ya işte size, kasabın gelini anama gidiyom diye uzatmalısını da alıp deniz kenarın gitmiş, diye, öyle değilmiş işte doğrusu, anası hastaymış da gerçekten oraya gitmiş bu sefer. ya şimdi duyup da şikayet ederse beni?
+> \- olur mu evladım, bu vasap, tivittir neyin dedikleri sosyal medya değil mi, ordan yasaklamışlar işte yazmayı. geçen anlattıydım ya işte size, kasabın gelini anama gidiyom diye uzatmalısını da alıp deniz kenarın gitmiş, diye, öyle değilmiş işte doğrusu, anası hastaymış da gerçekten oraya gitmiş bu sefer. ya şimdi duyup da şikayet ederse beni?
 > 
 > bilemedim ne diyeceğimi.
 > 
@@ -35,7 +35,13 @@ categories: gündem
 
 fıkradaki gibi, [ermeni'yi dövdürtmeyecektik.](https://www.youtube.com/watch?v=RrSkv6y_A8E)
 
-iş işten çoktan geçti mi, bilemiyorum.
+iş işten çoktan geçti mi, bilemiyorum. başlangıçta birer ikişer, sonrasında çoğar çoğar aldılar elimizden her şeyi, sessiz kaldık her birisine, elde kalanları kurtarma derdine düştük şimdi de.
+
+sokakta attığımız her adımın kameralar tarafından kayıt altına alınması kimseyi rahatsız etmiyor mesela artık. hatta pek çoğumuz farkında bile değiliz bunun.
+"önce güvenlik" dedik, özgürlükten vazgeçtik.
+
+
+
 
 
 
