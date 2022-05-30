@@ -39,13 +39,16 @@ iş işten çoktan geçti mi, bilemiyorum. başlangıçta birer ikişer, sonras�
 
 sokakta attığımız her adımın kameralar tarafından kayıt altına alınması kimseyi rahatsız etmiyor mesela artık. hatta pek çoğumuz farkında bile değiliz bunun.
 
-"önce güvenlik" dedik, özgürlükten vazgeçtik.
-
-muktedir, doğal hakkı olarak görüyor artık bunu. kaçınma hakkımız, sığınma yerlerimiz kalmadı.
+"önce güvenlik" dedik, özgürlükten vazgeçtik. muktedir, doğal hakkı olarak görüyor artık bunu. kaçınma hakkımız, sığınma yerlerimiz kalmadı.
 
 internet, bir nebze olsun bunu sağlayabiliyordu, başlangıçta o da elbette.
 
+sonra devasa büyüklüklere ulaşmış sosyal medya platformlarına kendimiz teslim olmadık mı zaten?
+> kimlik bilgilerin, açık adresin, (olmazsa olmaz) telefonun, sevgilinin adı, don rengin, cinsel tercihin, ver allah ver hepsini bana...
 
+hiç de "dur yahu, sanane bunlardan" diyenimiz çıkmadı.
+
+anonimlikle korkaklığı kıyaslayıp meydan okuyanlar da tuz biber ekti, "karşımda gerçek kimliğinle konuşacak cesaretin yok mu lan?"
 
 
 
