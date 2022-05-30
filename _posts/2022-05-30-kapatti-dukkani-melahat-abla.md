@@ -46,9 +46,13 @@ internet, bir nebze olsun bunu sağlayabiliyordu, başlangıçta o da elbette.
 sonra devasa büyüklüklere ulaşmış sosyal medya platformlarına kendimiz teslim olmadık mı zaten?
 > kimlik bilgilerin, açık adresin, (olmazsa olmaz) telefonun, sevgilinin adı, don rengin, cinsel tercihin, ver allah ver hepsini bana...
 
-hiç de "dur yahu, sanane bunlardan" diyenimiz çıkmadı.
+hiç de "dur yahu, sanane bunlardan?" diyenimiz çıkmadı.
 
 anonimlikle korkaklığı kıyaslayıp meydan okuyanlar da tuz biber ekti, "karşımda gerçek kimliğinle konuşacak cesaretin yok mu lan?"
+
+çıkışa da gelelim mi?
+
+
 
 
 
