@@ -41,7 +41,9 @@ sokakta attığımız her adımın kameralar tarafından kayıt altına alınmas
 
 "önce güvenlik" dedik, özgürlükten vazgeçtik.
 
-muktedir, doğal hakkı olarak görüyor artık bunu.
+muktedir, doğal hakkı olarak görüyor artık bunu. kaçınma hakkımız, sığınma yerlerimiz kalmadı.
+
+internet, bir nebze olsun bunu sağlayabiliyordu, başlangıçta o da elbette.
 
 
 
