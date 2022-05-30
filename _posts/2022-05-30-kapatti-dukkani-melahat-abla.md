@@ -29,7 +29,7 @@ categories: gündem
 > 
 > bilemedim ne diyeceğimi.
 > 
-> \- haklısın abla, sen şimdilik yazma o zaman, arada komşu ziyaretleri yapar aramızda konuşuruz bunları artık, olmaz mı?
+> \- haklısın abla, sen şimdilik yazma o zaman, arada komşu ziyaretleri yapar aramızda konuşuruz bunları artık, olmaz mı? eskiden de öyle yapmıyor muyduk hem?
 > 
 > \- olur olur, ama bak hele, benim oğlan söyledi yine, telefonları da almayın yanınıza gelirken e mi, ordan da duyuyorlar, diyor.
 
@@ -38,7 +38,10 @@ fıkradaki gibi, [ermeni'yi dövdürtmeyecektik.](https://www.youtube.com/watch?
 iş işten çoktan geçti mi, bilemiyorum. başlangıçta birer ikişer, sonrasında çoğar çoğar aldılar elimizden her şeyi, sessiz kaldık her birisine, elde kalanları kurtarma derdine düştük şimdi de.
 
 sokakta attığımız her adımın kameralar tarafından kayıt altına alınması kimseyi rahatsız etmiyor mesela artık. hatta pek çoğumuz farkında bile değiliz bunun.
+
 "önce güvenlik" dedik, özgürlükten vazgeçtik.
+
+muktedir, doğal hakkı olarak görüyor artık bunu.
 
 
 
