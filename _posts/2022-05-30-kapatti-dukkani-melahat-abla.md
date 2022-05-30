@@ -17,13 +17,13 @@ categories: gündem
 > 
 > \- iyi misin melahat abla, yolunda mı her şey?
 > 
-> \- gel evladım gel, öyle ulu orta konuşmayalım, duyan olur.
+> \- gel evladım gel, öyle ulu orta konuşmayalım, duyan olur, gir hele içeri.
 > 
 > duysunlar abla, senin mahalledeki görevin değil miydi zaten bu, duymak ve duyurmak...
 > 
 > \- benim oğlan aradı alamanya'daki, ana, dedi, yeni yasa çıkmış, orda burda her şeyi yazıp durma, yalan çıkarsa hapis cezası varmış.
 > 
-> \- doğru diyorsun abla, çıktı öyle bir yasa, ama bizi niye ilgilendirsin ki?
+> \- doğru diyorsun abla, daha çıkmadı ama çıkacak öyle bir yasa, ama bizi niye ilgilendirsin ki?
 > 
 > \- olur mu evladım, bu vasap neyin dedikleri sosyal medya değil mi, ordan yasaklamışlar işte yazmayı. geçen anlattıydım ya işte size, kasabın gelini anama gidiyom diye uzatmalısını da alıp deniz kenarın gitmiş, diye, öyle değilmiş işte doğrusu, anası hastaymış da gerçekten oraya gitmiş bu sefer. ya şimdi duyup da şikayet ederse beni?
 > 
