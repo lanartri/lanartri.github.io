@@ -5,7 +5,7 @@ date:   2022-05-31 11:58:00 +0000
 published: true
 categories: gündem
 ---
-> *** kapattı dükkanı melahat abla ***
+> * kapattı dükkanı melahat abla *
 >
 > üç gün oldu, ses yok melahat abladan. kapı önüne çıkmaz, pencereden kafayı uzatmaz, whatsapp mahalle grubuna mesaj atmaz oldu.
 > 
@@ -27,7 +27,7 @@ categories: gündem
 > 
 > \- doğru diyorsun abla, daha çıkmadı ama çıkacak öyle bir yasa, ama bizi niye ilgilendirsin ki?
 > 
-> \- olur mu evladım, bu vasap, tivittir neyin dedikleri sosyal medya değil mi, ordan yasaklamışlar işte yazmayı. geçen anlattıydım ya işte size, kasabın gelini anama gidiyom diye uzatmalısını da alıp deniz kenarın gitmiş, diye, öyle değilmiş işte doğrusu, anası hastaymış da gerçekten oraya gitmiş bu sefer. ya şimdi duyup da şikayet ederse beni?
+> \- olur mu evladım, bu vasap, tivittir neyin dedikleri sosyal medya değil mi, ordan yasaklamışlar işte yazmayı. geçen anlattıydım ya işte size, kasabın gelini anama gidiyom diye uzatmalısını da alıp deniz kenarına gitmiş, diye, öyle değilmiş işte doğrusu, anası hastaymış da gerçekten oraya gitmiş bu sefer. duymuş da haber salmış, hapislerde süründürcem seni, demiş.
 > 
 > bilemedim ne diyeceğimi.
 > 
