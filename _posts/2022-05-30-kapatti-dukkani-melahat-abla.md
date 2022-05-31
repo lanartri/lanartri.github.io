@@ -5,7 +5,7 @@ date:   2022-05-31 11:58:00 +0000
 published: true
 categories: gündem
 ---
-> * kapattı dükkanı melahat abla *
+> **kapattı dükkanı melahat abla**
 >
 > üç gün oldu, ses yok melahat abladan. kapı önüne çıkmaz, pencereden kafayı uzatmaz, whatsapp mahalle grubuna mesaj atmaz oldu.
 > 
