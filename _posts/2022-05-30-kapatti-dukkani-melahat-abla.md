@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "kapattı dükkanı melahat abla"
-date:   2022-05-30 12:41:00 +0000
+title:  "dövdürtmeyecektik ermeni'yi"
+date:   2022-05-31 11:58:00 +0000
 published: true
 categories: gündem
 ---
+> *** kapattı dükkanı melahat abla ***
+>
 > üç gün oldu, ses yok melahat abladan. kapı önüne çıkmaz, pencereden kafayı uzatmaz, whatsapp mahalle grubuna mesaj atmaz oldu.
 > 
 > güncel sokak haberlerini alamaz hale geldik. korkmaya da başladık bir yandan, bir şey mi geldi acaba başına, diye.
@@ -33,7 +35,7 @@ categories: gündem
 > 
 > \- olur olur, ama bak hele, benim oğlan söyledi yine, telefonları da almayın yanınıza gelirken e mi, ordan da duyuyorlar, diyor.
 
-fıkradaki gibi, [ermeni'yi dövdürtmeyecektik.](https://www.youtube.com/watch?v=RrSkv6y_A8E)
+evet, fıkradaki gibi, [ermeni'yi dövdürtmeyecektik.](https://www.youtube.com/watch?v=RrSkv6y_A8E)
 
 iş işten çoktan geçti mi, bilemiyorum. başlangıçta birer ikişer, sonrasında çoğar çoğar aldılar elimizden her şeyi, sessiz kaldık her birisine, elde kalanları kurtarma derdine düştük şimdi de.
 
