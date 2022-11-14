@@ -2,7 +2,7 @@
 layout: post
 title:  "dövdürtmeyecektik ermeni'yi"
 date:   2022-05-31 11:58:00 +0000
-published: true
+published: false
 categories: gündem
 ---
 > **kapattı dükkanı melahat abla**
